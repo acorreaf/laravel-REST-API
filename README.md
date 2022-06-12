@@ -2,18 +2,18 @@
 
 Es un programa de prueba basado en el Framework Laravel. Trabaja con Bootstrap y JS/jQuery.
 
-Se tomo la libreria de Laravel para el acceso a la API externa.
+Se tomó la librería de Laravel para el acceso a la API externa.
 
-**AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
-SCSS has been used to increase code customizability.
+## Laravel
+Se trabajó con la versión 8.
 
-## Quick start
-There are multiple ways to install AdminLTE.
+## Login y registro
+Para el acceso y creación de usuarios se tomó como base el ejemplo en la página https://www.itsolutionstuff.com/post/laravel-custom-login-and-registration-exampleexample.html.
 
-### Download & Changelog:
-Always Recommended to download from GitHub latest release [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE/releases/latest) for bug free and latest features.\
-Visit the [releases](https://github.com/ColorlibHQ/AdminLTE/releases) page to view the changelog.\
-Legacy Releases are [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE/releases/tag/v2.4.18) / [AdminLTE 1](https://github.com/ColorlibHQ/AdminLTE/releases/tag/1.3.1).
+## Acceso a API Externa
+Se trabajó con la libreria HTTP Client de Laravel
+```composer require guzzlehttp/guzzle
+```
 
 ## Stable release
 ### Grab from [jsdelivr](https://www.jsdelivr.com/package/npm/admin-lte) CDN:
