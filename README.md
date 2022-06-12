@@ -5,7 +5,15 @@ Es un programa de prueba basado en el Framework Laravel. Trabaja con Bootstrap y
 Se tomó la librería de Laravel para el acceso a la API externa.
 
 ## Laravel
-Se trabajó con la versión 8.
+Se trabajó con la versión 8
+
+## Base de Datos
+laravel_test
+usuario: **admin@admin.com**
+clave: **admin987**
+
+## Xampp
+Se trabajó con la versión **XAMPP for Windows 7.4.20** | **PHP Versión 7.4.20** | **MySQL Versión 5.2.0**  
 
 ## Login y registro
 Para el acceso y creación de usuarios se tomó como base el ejemplo en la página
