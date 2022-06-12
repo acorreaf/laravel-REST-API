@@ -12,7 +12,8 @@ Para el acceso y creación de usuarios se tomó como base el ejemplo en la pági
 
 ## Acceso a API Externa
 Se trabajó con la libreria HTTP Client de Laravel
-```composer require guzzlehttp/guzzle
+```bash
+composer require guzzlehttp/guzzle
 ```
 
 ## Stable release
