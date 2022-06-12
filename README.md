@@ -9,6 +9,7 @@ Se trabajó con la versión 8
 
 ## Base de Datos
 laravel_test
+
 usuario: **admin@admin.com**
 clave: **admin987**
 
