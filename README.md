@@ -1,16 +1,8 @@
 # [Laravel REST API](https://adminlte.io)
 
-Es un programa de prueba basado en el Framework Laravel. Trabaja con **[Bootstrap 4.6](https://getbootstrap.com/)** y JS/jQuery.
+Es un programa de prueba basado en el Framework Laravel. Trabaja con Bootstrap y JS/jQuery.
+
 Se tomo la libreria de Laravel para el acceso a la API externa.
-
-**Preview on [AdminLTE.io](https://adminlte.io/themes/v3)**
-
-## Looking for Premium Templates?
-
-AdminLTE.io just opened a new premium templates page. Hand picked to ensure the best quality and the most affordable
-prices. Visit <https://adminlte.io/premium> for more information.
-
-!["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
 
 **AdminLTE** has been carefully coded with clear comments in all of its JS, SCSS and HTML files.
 SCSS has been used to increase code customizability.
